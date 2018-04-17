@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "include"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"board.h": "c",
+			"random.h": "c"
+		}
+	}
+}
